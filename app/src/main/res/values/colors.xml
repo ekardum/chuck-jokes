@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DC68D</color>
+    <color name="colorPrimaryDark">#2CBCD0</color>
+    <color name="colorAccent">#1DC68D</color>
+    <color name="colorText">#263238</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="jokeButtonBg">#1DC68D</color>
+    <color name="factButtonBg">#70C141</color>
+    <color name="factWindowBg">#2B2B2B</color>
+    <color name="factHeaderBg">#70C141</color>
+
+</resources>
