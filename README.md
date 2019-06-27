@@ -10,3 +10,5 @@ Aplikacija se za prikaz podataka spaja na dva API-ja koji sadrže bazu podataka 
 <a href="http://randomuselessfact.appspot.com/">Fun facts</a>
 <h1>Mock dizajn</h1> </br>
 <a href="https://ninjamock.com/s/6VSLQDx">Ninjamock</a>
+<h1>Powerpoint prezentacija</h1>
+<a href="https://www.dropbox.com/s/gmtkhb93w2cp9vs/Chuck%20Norris%20-%20Emanuel%20Kardum.pptx?dl=0">Chuck-jokes.pptx</a>
